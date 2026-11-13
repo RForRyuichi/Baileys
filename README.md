@@ -2,7 +2,7 @@
 
 <img src="https://em-content.zobj.net/source/apple/391/fire_1f525.png" width="70" alt="fire" />
 
-# Ryuichi Bail
+# R For Ryuichi Bail
 
 ### A Fast, Lightweight WebSockets Library For WhatsApp Web
 
